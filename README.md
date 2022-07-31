@@ -13,6 +13,7 @@ When it came to feature selection, I first looked at features selection with 4 f
 
 
 ![image](https://user-images.githubusercontent.com/67610482/182005366-4444b25f-06fa-486d-8abb-7234ac60faa4.png)
+
 I have also decided to also use logistic regression to look at the accuracy. What surprised me is that the accuracy for five features do not improve while using logistic regression. When I used feature selection for 4 features the highest one was 77.1%. Using the highest accuracy’s features I tried out the various combinations with three features. I ended up finding out that the highest accuracy for logistic regression happens in two instances. The first one is when all five features are used. The second is when feature 4 is selected where kills, average level, total gold, and killing spree is selected. 
 
 # Dataset
